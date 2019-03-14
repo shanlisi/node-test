@@ -1,0 +1,11 @@
+.vscode
+*.DS_Store
+node_modules/
+src/views/
+src/css/
+package-lock.json
+src/images/sprite/*.png
+src/scss/app/common/_sprite.scss
+dist/
+.idea/
+.idea
